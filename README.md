@@ -1,5 +1,5 @@
 # Mathematical-tools-for-neuroscience
-Fundamental mathematical tools will be overviewed with examples in python
+Fundamental mathematical tools will be overviewed with examples in Matlab
 ___
 
 Mathematical tools have become an essential part of modern neuroscience and inorder to do well in neurosciece everyone needs to learn at least some basice mathematical and computational skills. 
