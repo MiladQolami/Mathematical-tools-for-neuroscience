@@ -1,4 +1,4 @@
-# Mathematical-tools-for-neuroscience
+# Mathematical tools for neuroscience
 Fundamental mathematical tools will be overviewed with examples in Matlab
 ___
 
