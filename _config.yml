@@ -7,7 +7,7 @@
 # Book settings
 
 
-title                       : NeuroMath:Key Mathematical Concepts for Neuroscientists # The title of the book. Will be placed in the left navbar.
+title                       : NeuroMath: 'Mathematical Concepts for Neuroscientists' # The title of the book. Will be placed in the left navbar.
 author                      : Milad Qolami  # The author of the book
 email                       :   # EDS2 (not sure if this does anything in sphinx)
 # copyright                   : "2020"  # Copyright year to be placed in the footer
