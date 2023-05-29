@@ -7,12 +7,12 @@
 # Book settings
 
 
-title                       : 'NeuroMath:'' 'Mathematical Concepts for Neuroscientists' # The title of the book. Will be placed in the left navbar.
+title                       : NeuroMath:Mathematical Concepts for Neuroscientists # The title of the book. Will be placed in the left navbar.
 author                      : Milad Qolami  # The author of the book
-email                       :   # EDS2 (not sure if this does anything in sphinx)
-# copyright                   : "2020"  # Copyright year to be placed in the footer
-logo                        : "_config/logo/logo.png"  # A path to the book logo
-exclude_patterns            : ["README.md", "LICENSE.md", "template.*", "ignore/*"]  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+# email                       :   # EDS2 (not sure if this does anything in sphinx)
+# # copyright                 : "2020"  # Copyright year to be placed in the footer
+# logo                        : "_config/logo/logo.png"  # A path to the book logo
+# exclude_patterns            : ["README.md", "LICENSE.md", "template.*", "ignore/*"]  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 
 #######################################################################################
 # Execution settings
@@ -24,7 +24,7 @@ execute:
 #######################################################################################
 # HTML-specific settings
 html:
-  favicon                   : "_config/logo/favicon.ico"  # A path to a favicon image
+  # favicon                   : "_config/logo/favicon.ico"  # A path to a favicon image
   navbar_number_sections    : true # Add a number to each section in your left navbar
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : true  # Whether to add a link to your repository button
