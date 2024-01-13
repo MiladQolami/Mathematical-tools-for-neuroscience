@@ -1,0 +1,35 @@
+1- Linear combination, Vector Spaces, Null spaces, Range spaces
+2- Inner product and projection
+3- Linear systems
+4- Orthogonal matrices
+5- Eigen value and eigen vectors
+5- Singular value decomposition
+6- PCA
+8- Least square regression
+9- The convex matrix and correlation
+10- probability and Bayes’ rule
+11- summary stats, central tendency, disperson, multi-D
+12- histograms, distributions, expectations, moments, cumulatives,
+    transformations, sampling
+13-joint distributions, marginals, conditionals, Bayes Rule,
+   independence
+14- Averages: 1/N convergence to mean, CLT, significance tests,
+    p-values, z-test, t-test, permutation tests
+15- Statistical inference, MLE, examples
+16- MAP, bias-variance, Bayes estimators
+17-Signal Detection theory: ML/MAP/Bayes, d', ROC
+18 - Multi-D decision: FLD, SVM, QDA
+19- Discriminability, Fisher Information. Model fitting
+20-Model fitting: errors, optimization, overfitting, ridge (L2) 
+   and LASSO (L1) regression
+21- Clustering: K-means, Hierarchical (mixture) models,
+    soft K-means
+22- Model fitting: Example: Fitting an LNP model to neural 
+    responses via STA
+23- Encoding/decoding: Spike-triggered analysis, 
+    population decoding
+24- EEG ERP and time-frequency analysis	
+
+
+
+
