@@ -1,9 +1,12 @@
-# Mathematical tools for neuroscience
-Fundamental mathematical tools will be overviewed with examples in Matlab
-___
+# Mathematical Tools for Neuroscience
 
-Mathematical tools have become an essential part of modern neuroscience and inorder to do well in neurosciece everyone needs to learn at least some basice mathematical and computational skills. 
-The aim of these repository is to provide fundamental computaional and mathematical methods used in neuroscience. 
+This repository offers an exploration of essential mathematical tools integral to neuroscience. With practical examples in MATLAB, it is designed to enhance proficiency in key computational and mathematical techniques.
+
+---
+
+Mathematics and computational skills are crucial in modern neuroscience. To excel in this field, acquiring foundational mathematical competencies is indispensable. This repository aims to provide fundamental computational and mathematical methods utilized in neuroscience, enabling learners and researchers to deepen their understanding and improve their research capabilities.
+
+---
 
 <cneter>
 <img src = 'https://github.com/MiladQolami/Mathematical-tools-for-neuroscience/blob/main/Topics%20.jpg'>
